@@ -1,0 +1,19 @@
+table{
+   border: 3px solid ;
+   background-color: bisque;
+   width: 46%;
+}
+button{
+    background-color: rgb(108, 184, 223);
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+}
+td{
+    padding: 3px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+}
